@@ -28,10 +28,10 @@
 | [arrify](https://github.com/sindresorhus/arrify) | MIT | https://github.com/sindresorhus/arrify/blob/master/license |
 | [asap](https://github.com/kriskowal/asap) | MIT | https://github.com/kriskowal/asap/raw/master/LICENSE.md |
 | [asn1](https://github.com/mcavage/node-asn1) | Not specified | https://github.com/mcavage/node-asn1/blob/master/LICENSE |
-| [assert-plus](https://github.com/mcavage/node-assert-plus) | MIT | undefined |
-| [assertion-error](https://github.com/chaijs/assertion-error) | MIT | undefined |
+| [assert-plus](https://github.com/mcavage/node-assert-plus) | MIT | https://github.com/mcavage/node-assert-plus |
+| [assertion-error](https://github.com/chaijs/assertion-error) | MIT | https://github.com/chaijs/assertion-error |
 | [async](https://github.com/caolan/async) | MIT | https://github.com/caolan/async/raw/master/LICENSE |
-| [async-each](https://github.com/paulmillr/async-each/) | MIT | undefined |
+| [async-each](https://github.com/paulmillr/async-each/) | MIT | https://github.com/paulmillr/async-each/ |
 | [async-foreach](http://github.com/cowboy/javascript-sync-async-foreach) | Not specified | http://github.com/cowboy/javascript-sync-async-foreach/blob/master/LICENSE-MIT |
 | [atob](https://github.com/coolaj86/node-browser-compat) | (MIT OR Apache-2.0) | https://github.com/coolaj86/node-browser-compat/blob/master/LICENSE |
 | [autoprefixer](https://github.com/postcss/autoprefixer) | MIT | https://github.com/postcss/autoprefixer/blob/master/LICENSE |
@@ -45,18 +45,18 @@
 | [base64url](https://github.com/brianloveswords/base64url) | MIT | https://github.com/brianloveswords/base64url/blob/master/LICENSE |
 | [basic-auth](https://github.com/jshttp/basic-auth) | MIT | https://github.com/jshttp/basic-auth/blob/master/LICENSE |
 | [bcrypt-nodejs](https://github.com/shaneGirish/bcryptJS) | Not specified | https://github.com/shaneGirish/bcryptJS/blob/master/LICENSE |
-| [big.js](https://github.com/MikeMcl/big.js) | MIT | undefined |
+| [big.js](https://github.com/MikeMcl/big.js) | MIT | https://github.com/MikeMcl/big.js |
 | [binary-extensions](https://github.com/sindresorhus/binary-extensions) | MIT | https://github.com/sindresorhus/binary-extensions/blob/master/license |
 | [bl](https://github.com/rvagg/bl) | MIT | https://github.com/rvagg/bl/blob/master/LICENSE.md |
 | [blessed](https://github.com/chjj/blessed) | MIT | https://github.com/chjj/blessed/blob/master/LICENSE |
 | [block-stream](https://github.com/isaacs/block-stream) | ISC | https://github.com/isaacs/block-stream/blob/master/LICENSE |
 | [bluebird](https://github.com/petkaantonov/bluebird) | MIT | https://github.com/petkaantonov/bluebird/blob/master/LICENSE |
 | [body-parser](https://github.com/expressjs/body-parser) | MIT | https://github.com/expressjs/body-parser/blob/master/LICENSE |
-| [boolbase](https://github.com/fb55/boolbase) | ISC | undefined |
+| [boolbase](https://github.com/fb55/boolbase) | ISC | https://github.com/fb55/boolbase |
 | [boom](https://github.com/spumko/boom) | BSD | http://github.com/spumko/boom/raw/master/LICENSE |
-| [brace-expansion](https://github.com/juliangruber/brace-expansion) | MIT | undefined |
+| [brace-expansion](https://github.com/juliangruber/brace-expansion) | MIT | https://github.com/juliangruber/brace-expansion |
 | [braces](https://github.com/jonschlinkert/braces) | MIT | https://github.com/jonschlinkert/braces/blob/master/LICENSE |
-| [browserify-zlib](https://github.com/devongovett/browserify-zlib) | MIT | undefined |
+| [browserify-zlib](https://github.com/devongovett/browserify-zlib) | MIT | https://github.com/devongovett/browserify-zlib |
 | [browserslist](https://github.com/ai/browserslist) | MIT | https://github.com/ai/browserslist/blob/master/LICENSE |
 | [bson](https://github.com/mongodb/js-bson) | Apache-2.0 | https://github.com/mongodb/js-bson/blob/master/LICENSE |
 | [buffer](https://github.com/feross/buffer) | MIT | https://github.com/feross/buffer/blob/master/LICENSE |
@@ -66,20 +66,20 @@
 | [bytes](https://github.com/visionmedia/bytes.js) | MIT | https://github.com/visionmedia/bytes.js/blob/master/LICENSE |
 | [camelcase](https://github.com/sindresorhus/camelcase) | MIT | https://github.com/sindresorhus/camelcase/blob/master/license |
 | [camelcase-keys](https://github.com/sindresorhus/camelcase-keys) | MIT | https://github.com/sindresorhus/camelcase-keys/blob/master/license |
-| [caniuse-db](https://github.com/Fyrd/caniuse) | CC-BY-4.0 | undefined |
+| [caniuse-db](https://github.com/Fyrd/caniuse) | CC-BY-4.0 | https://github.com/Fyrd/caniuse |
 | [caseless](https://github.com/mikeal/caseless) | Apache-2.0 | https://github.com/mikeal/caseless/blob/master/LICENSE |
 | [center-align](https://github.com/jonschlinkert/center-align) | MIT | https://github.com/jonschlinkert/center-align/blob/master/LICENSE |
-| [chai](http://chaijs.com) | MIT | undefined |
+| [chai](http://chaijs.com) | MIT | http://chaijs.com |
 | [chalk](https://github.com/chalk/chalk) | MIT | https://github.com/chalk/chalk/blob/master/license |
 | [character-parser](https://github.com/ForbesLindesay/character-parser) | MIT | https://github.com/ForbesLindesay/character-parser/blob/master/LICENSE |
-| [cheerio](https://github.com/cheeriojs/cheerio) | MIT | undefined |
-| [chokidar](https://github.com/paulmillr/chokidar) | MIT | undefined |
+| [cheerio](https://github.com/cheeriojs/cheerio) | MIT | https://github.com/cheeriojs/cheerio |
+| [chokidar](https://github.com/paulmillr/chokidar) | MIT | https://github.com/paulmillr/chokidar |
 | [clap](https://github.com/lahmatiy/clap) | MIT | https://github.com/lahmatiy/clap/blob/master/LICENSE |
 | [clean-css](https://github.com/jakubpawlowicz/clean-css) | MIT | https://github.com/jakubpawlowicz/clean-css/blob/master/LICENSE |
 | [cliui](https://github.com/bcoe/cliui) | ISC | https://github.com/bcoe/cliui/blob/master/LICENSE.txt |
 | [clockwork](https://github.com/mediaburst/node-clockwork) | Not specified | https://github.com/mediaburst/node-clockwork/blob/master/LICENSE |
 | [clone](https://github.com/pvorb/node-clone) | MIT | https://github.com/pvorb/node-clone/blob/master/LICENSE |
-| [coa](http://github.com/veged/coa) | MIT | undefined |
+| [coa](http://github.com/veged/coa) | MIT | http://github.com/veged/coa |
 | [code-point-at](https://github.com/sindresorhus/code-point-at) | MIT | https://github.com/sindresorhus/code-point-at/blob/master/license |
 | [color](https://github.com/MoOx/color) | MIT | https://github.com/MoOx/color/blob/master/LICENSE |
 | [color-convert](https://github.com/harthur/color-convert) | Not specified | https://github.com/harthur/color-convert/blob/master/LICENSE |
@@ -95,15 +95,15 @@
 | [config-chain](http://github.com/dominictarr/config-chain) | MIT | https://raw.githubusercontent.com/dominictarr/config-chain/master/LICENCE |
 | [connect-assets](https://github.com/adunkman/connect-assets) | MIT | https://github.com/adunkman/connect-assets/blob/master/LICENSE.md |
 | [connect-flash](https://github.com/jaredhanson/connect-flash) | MIT | http://www.opensource.org/licenses/MIT |
-| [connect-mongo](https://github.com/kcbanner/connect-mongo) | MIT | undefined |
+| [connect-mongo](https://github.com/kcbanner/connect-mongo) | MIT | https://github.com/kcbanner/connect-mongo |
 | [console-browserify](https://github.com/Raynos/console-browserify) | MIT | http://github.com/Raynos/console-browserify/raw/master/LICENSE |
 | [constantinople](https://github.com/ForbesLindesay/constantinople) | MIT | https://github.com/ForbesLindesay/constantinople/blob/master/LICENSE |
-| [constants-browserify](https://github.com/juliangruber/constants-browserify) | MIT | undefined |
+| [constants-browserify](https://github.com/juliangruber/constants-browserify) | MIT | https://github.com/juliangruber/constants-browserify |
 | [content-disposition](https://github.com/jshttp/content-disposition) | MIT | https://github.com/jshttp/content-disposition/blob/master/LICENSE |
 | [content-type](https://github.com/jshttp/content-type) | MIT | https://github.com/jshttp/content-type/blob/master/LICENSE |
 | [cookie](https://github.com/jshttp/cookie) | MIT | https://github.com/jshttp/cookie/blob/master/LICENSE |
 | [cookie-parser](https://github.com/expressjs/cookie-parser) | MIT | https://github.com/expressjs/cookie-parser/blob/master/LICENSE |
-| [cookie-signature](https://github.com/visionmedia/node-cookie-signature) | MIT | undefined |
+| [cookie-signature](https://github.com/visionmedia/node-cookie-signature) | MIT | https://github.com/visionmedia/node-cookie-signature |
 | [core-util-is](https://github.com/isaacs/core-util-is) | MIT | https://github.com/isaacs/core-util-is/blob/master/LICENSE |
 | [crc](https://github.com/alexgorbatchev/node-crc) | MIT | https://github.com/alexgorbatchev/node-crc/blob/master/LICENSE |
 | [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) | MIT | https://github.com/IndigoUnited/node-cross-spawn/blob/master/LICENSE |
@@ -111,31 +111,31 @@
 | [cryptiles](https://github.com/hueniverse/cryptiles) | BSD | http://github.com/hueniverse/cryptiles/raw/master/LICENSE |
 | [crypto-browserify](https://github.com/dominictarr/crypto-browserify) | MIT | https://github.com/dominictarr/crypto-browserify/blob/master/LICENSE |
 | [css](https://github.com/reworkcss/css) | MIT | https://github.com/reworkcss/css/blob/master/LICENSE |
-| [css-color-names](https://github.com/bahamas10/css-color-names) | MIT | undefined |
-| [css-loader](https://github.com/webpack/css-loader) | MIT | undefined |
-| [css-parse](https://github.com/reworkcss/css-parse) | MIT | undefined |
+| [css-color-names](https://github.com/bahamas10/css-color-names) | MIT | https://github.com/bahamas10/css-color-names |
+| [css-loader](https://github.com/webpack/css-loader) | MIT | https://github.com/webpack/css-loader |
+| [css-parse](https://github.com/reworkcss/css-parse) | MIT | https://github.com/reworkcss/css-parse |
 | [css-select](https://github.com/fb55/css-select) | BSD-like | https://github.com/fb55/css-select/blob/master/LICENSE |
-| [css-selector-tokenizer](https://github.com/css-modules/css-selector-tokenizer) | MIT | undefined |
-| [css-stringify](https://github.com/reworkcss/css-stringify) | MIT | undefined |
+| [css-selector-tokenizer](https://github.com/css-modules/css-selector-tokenizer) | MIT | https://github.com/css-modules/css-selector-tokenizer |
+| [css-stringify](https://github.com/reworkcss/css-stringify) | MIT | https://github.com/reworkcss/css-stringify |
 | [css-what](https://github.com/fb55/css-what) | BSD-like | https://github.com/fb55/css-what/blob/master/LICENSE |
 | [cssesc](http://mths.be/cssesc) | MIT | http://mths.be/mit |
 | [cssnano](https://github.com/ben-eb/cssnano) | MIT | https://github.com/ben-eb/cssnano/blob/master/LICENSE-MIT |
 | [csso](https://github.com/css/csso) | MIT | https://github.com/css/csso/blob/master/LICENSE |
 | [csswring](https://github.com/hail2u/node-csswring) | MIT | http://hail2u.mit-license.org/2014 |
-| [csv](http://www.adaltas.com/projects/node-csv/) | BSD-3-Clause | http://www.adaltas.com/projects/node-csv//blob/master/LICENSE |
-| [csv-generate](http://csv.adaltas.com/generate/) | BSD-3-Clause | http://csv.adaltas.com/generate//blob/master/LICENSE |
-| [csv-parse](http://csv.adaltas.com/parse/) | BSD-3-Clause | http://csv.adaltas.com/parse//blob/master/LICENSE |
-| [csv-stringify](http://csv.adaltas.com/stringify/) | BSD-3-Clause | http://csv.adaltas.com/stringify//blob/master/LICENSE |
-| [csvtojson](http://keyangxiang.com/blog/csv2json/) | undefined | http://keyangxiang.com/blog/csv2json//blob/master/LICENSE |
+| [csv](http://www.adaltas.com/projects/node-csv/) | BSD-3-Clause | http://www.adaltas.com/projects/node-csv/ |
+| [csv-generate](http://csv.adaltas.com/generate/) | BSD-3-Clause | http://csv.adaltas.com/generate/ |
+| [csv-parse](http://csv.adaltas.com/parse/) | BSD-3-Clause | http://csv.adaltas.com/parse/ |
+| [csv-stringify](http://csv.adaltas.com/stringify/) | BSD-3-Clause | http://csv.adaltas.com/stringify/ |
+| [csvtojson](http://keyangxiang.com/blog/csv2json/) | undefined | http://keyangxiang.com/blog/csv2json/ |
 | [ctype](https://github.com/rmustacc/node-ctype) | Not specified | https://github.com/rmustacc/node-ctype/blob/master/LICENSE |
-| [cycle](https://github.com/douglascrockford/JSON-js) | Not specified | undefined |
-| [d](https://github.com/medikoo/d) | MIT | undefined |
-| [dashdash](https://github.com/trentm/node-dashdash) | MIT | undefined |
+| [cycle](https://github.com/douglascrockford/JSON-js) | Not specified | https://github.com/douglascrockford/JSON-js |
+| [d](https://github.com/medikoo/d) | MIT | https://github.com/medikoo/d |
+| [dashdash](https://github.com/trentm/node-dashdash) | MIT | https://github.com/trentm/node-dashdash |
 | [date-now](https://github.com/Colingo/date-now) | MIT | http://github.com/Colingo/date-now/raw/master/LICENSE |
-| [date-utils](https://jerrysievert.github.io/date-utils/) | MIT | https://jerrysievert.github.io/date-utils//blob/master/LICENSE |
-| [debug](https://github.com/visionmedia/debug) | MIT | undefined |
+| [date-utils](https://jerrysievert.github.io/date-utils/) | MIT | https://jerrysievert.github.io/date-utils/ |
+| [debug](https://github.com/visionmedia/debug) | MIT | https://github.com/visionmedia/debug |
 | [decamelize](https://github.com/sindresorhus/decamelize) | MIT | https://github.com/sindresorhus/decamelize/blob/master/license |
-| [deep-eql](https://github.com/chaijs/deep-eql) | MIT | undefined |
+| [deep-eql](https://github.com/chaijs/deep-eql) | MIT | https://github.com/chaijs/deep-eql |
 | [defined](https://github.com/substack/defined) | MIT | https://github.com/substack/defined/blob/master/LICENSE |
 | [delayed-stream](https://github.com/felixge/node-delayed-stream) | Not specified | https://github.com/felixge/node-delayed-stream/blob/master/License |
 | [delegates](https://github.com/visionmedia/node-delegates) | MIT | https://github.com/visionmedia/node-delegates/blob/master/License |
@@ -147,14 +147,14 @@
 | [domelementtype](https://github.com/FB55/domelementtype) | Not specified | https://github.com/FB55/domelementtype/blob/master/LICENSE |
 | [domhandler](https://github.com/fb55/DomHandler) | Not specified | https://github.com/fb55/DomHandler/blob/master/LICENSE |
 | [domutils](https://github.com/FB55/domutils) | Not specified | https://github.com/FB55/domutils/blob/master/LICENSE |
-| [dotenv](https://github.com/motdotla/dotenv) | BSD-2-Clause | undefined |
+| [dotenv](https://github.com/motdotla/dotenv) | BSD-2-Clause | https://github.com/motdotla/dotenv |
 | [dotty](https://github.com/deoxxa/dotty) | BSD | https://github.com/deoxxa/dotty/blob/master/LICENSE.md |
 | [ecc-jsbn](https://github.com/quartzjer/ecc-jsbn) | MIT | https://github.com/quartzjer/ecc-jsbn/blob/master/LICENSE |
 | [ecdsa-sig-formatter](https://github.com/Brightspace/node-ecdsa-sig-formatter) | Apache-2.0 | https://github.com/Brightspace/node-ecdsa-sig-formatter/blob/master/LICENSE |
 | [ee-first](https://github.com/jonathanong/ee-first) | MIT | https://github.com/jonathanong/ee-first/blob/master/LICENSE |
 | [enhanced-resolve](http://github.com/webpack/enhanced-resolve) | MIT | http://www.opensource.org/licenses/mit-license.php |
 | [entities](https://github.com/fb55/node-entities) | BSD-like | https://github.com/fb55/node-entities/blob/master/LICENSE |
-| [errno](https://github.com/rvagg/node-errno) | MIT | undefined |
+| [errno](https://github.com/rvagg/node-errno) | MIT | https://github.com/rvagg/node-errno |
 | [error-ex](https://github.com/qix-/node-error-ex) | MIT | https://github.com/qix-/node-error-ex/blob/master/LICENSE |
 | [errorhandler](https://github.com/expressjs/errorhandler) | MIT | https://github.com/expressjs/errorhandler/blob/master/LICENSE |
 | [es5-ext](https://github.com/medikoo/es5-ext) | MIT | https://github.com/medikoo/es5-ext/blob/master/LICENSE |
@@ -168,16 +168,16 @@
 | [expand-brackets](https://github.com/jonschlinkert/expand-brackets) | MIT | https://github.com/jonschlinkert/expand-brackets/blob/master/LICENSE |
 | [expand-range](https://github.com/jonschlinkert/expand-range) | MIT | https://github.com/jonschlinkert/expand-range/blob/master/LICENSE-MIT |
 | [express](https://github.com/expressjs/express) | MIT | https://github.com/expressjs/express/blob/master/LICENSE |
-| [express-flash](https://github.com/RGBboy/express-flash) | Not specified | undefined |
+| [express-flash](https://github.com/RGBboy/express-flash) | Not specified | https://github.com/RGBboy/express-flash |
 | [express-session](https://github.com/expressjs/session) | MIT | https://github.com/expressjs/session/blob/master/LICENSE |
 | [express-validator](https://github.com/ctavan/express-validator) | MIT | https://github.com/ctavan/express-validator/blob/master/LICENSE |
-| [extend](https://github.com/justmoon/node-extend) | Not specified | undefined |
+| [extend](https://github.com/justmoon/node-extend) | MIT | https://github.com/justmoon/node-extend/blob/master/LICENSE |
 | [extglob](https://github.com/jonschlinkert/extglob) | MIT | https://github.com/jonschlinkert/extglob/blob/master/LICENSE |
-| [extract-text-webpack-plugin](http://github.com/webpack/extract-text-webpack-plugin) | MIT | undefined |
+| [extract-text-webpack-plugin](http://github.com/webpack/extract-text-webpack-plugin) | MIT | http://github.com/webpack/extract-text-webpack-plugin |
 | [extsprintf](https://github.com/davepacheco/node-extsprintf) | Not specified | https://github.com/davepacheco/node-extsprintf/blob/master/LICENSE |
-| [eyes](undefined) | undefined | undefined/blob/master/LICENSE |
-| [fastparse](https://github.com/webpack/fastparse) | MIT | undefined |
-| [file-stream-rotator](https://github.com/holidayextras/file-stream-rotator) | MIT | undefined |
+| [eyes](http://github.com/cloudhead/eyes.js) | MIT | http://github.com/cloudhead/eyes.js/blob/master/LICENSE |
+| [fastparse](https://github.com/webpack/fastparse) | MIT | https://github.com/webpack/fastparse |
+| [file-stream-rotator](https://github.com/holidayextras/file-stream-rotator) | MIT | https://github.com/holidayextras/file-stream-rotator |
 | [filename-regex](https://github.com/regexps/filename-regex) | MIT | https://github.com/regexps/filename-regex/blob/master/LICENSE-MIT |
 | [fill-range](https://github.com/jonschlinkert/fill-range) | MIT | https://github.com/jonschlinkert/fill-range/blob/master/LICENSE |
 | [finalhandler](https://github.com/pillarjs/finalhandler) | MIT | https://github.com/pillarjs/finalhandler/blob/master/LICENSE |
@@ -195,16 +195,16 @@
 | [fstream](https://github.com/isaacs/fstream) | ISC | https://github.com/isaacs/fstream/blob/master/LICENSE |
 | [gauge](https://github.com/iarna/gauge) | ISC | https://github.com/iarna/gauge/blob/master/LICENSE |
 | [gaze](https://github.com/shama/gaze) | MIT | https://github.com/shama/gaze/blob/master/LICENSE-MIT |
-| [generate-function](https://github.com/mafintosh/generate-function) | MIT | undefined |
+| [generate-function](https://github.com/mafintosh/generate-function) | MIT | https://github.com/mafintosh/generate-function |
 | [generate-object-property](https://github.com/mafintosh/generate-object-property) | MIT | https://github.com/mafintosh/generate-object-property/blob/master/LICENSE |
-| [get-stdin](https://github.com/sindresorhus/get-stdin) | MIT | undefined |
+| [get-stdin](https://github.com/sindresorhus/get-stdin) | MIT | https://github.com/sindresorhus/get-stdin |
 | [glob](https://github.com/isaacs/node-glob) | ISC | https://github.com/isaacs/node-glob/blob/master/LICENSE |
 | [glob-base](https://github.com/jonschlinkert/glob-base) | MIT | https://github.com/jonschlinkert/glob-base/blob/master/LICENSE |
 | [glob-parent](https://github.com/es128/glob-parent) | ISC | https://github.com/es128/glob-parent/blob/master/LICENSE |
 | [globule](https://github.com/cowboy/node-globule) | MIT | https://github.com/cowboy/node-globule/blob/master/LICENSE-MIT |
 | [graceful-fs](https://github.com/isaacs/node-graceful-fs) | ISC | https://github.com/isaacs/node-graceful-fs/blob/master/LICENSE |
 | [graceful-readlink](https://github.com/zhiyelee/graceful-readlink) | MIT | https://github.com/zhiyelee/graceful-readlink/blob/master/LICENSE |
-| [growl](https://github.com/visionmedia/node-growl) | Not specified | undefined |
+| [growl](https://github.com/tj/node-growl) | MIT | https://github.com/tj/node-growl |
 | [har-validator](https://github.com/ahmadnassri/har-validator) | ISC | https://github.com/ahmadnassri/har-validator/blob/master/LICENSE |
 | [has-ansi](https://github.com/sindresorhus/has-ansi) | MIT | https://github.com/sindresorhus/has-ansi/blob/master/license |
 | [has-flag](https://github.com/sindresorhus/has-flag) | MIT | https://github.com/sindresorhus/has-flag/blob/master/license |
@@ -212,7 +212,7 @@
 | [has-unicode](https://github.com/iarna/has-unicode) | ISC | https://github.com/iarna/has-unicode/blob/master/LICENSE |
 | [hike](https://github.com/nodeca/hike-js) | MIT | https://github.com/nodeca/hike-js/blob/master/LICENSE |
 | [hoek](https://github.com/spumko/hoek) | BSD | http://github.com/spumko/hoek/raw/master/LICENSE |
-| [hooks-fixed](https://github.com/vkarpov15/hooks-fixed/) | undefined | undefined |
+| [hooks-fixed](https://github.com/vkarpov15/hooks-fixed/) | MIT | https://github.com/vkarpov15/hooks-fixed/ |
 | [hosted-git-info](https://github.com/npm/hosted-git-info) | ISC | https://github.com/npm/hosted-git-info/blob/master/LICENSE |
 | [htmlparser2](https://github.com/fb55/htmlparser2) | MIT | https://github.com/fb55/htmlparser2/blob/master/LICENSE |
 | [http-browserify](https://github.com/substack/http-browserify) | MIT/X11 | https://github.com/substack/http-browserify/blob/master/LICENSE |
@@ -220,7 +220,7 @@
 | [http-signature](https://github.com/joyent/node-http-signature/) | MIT | https://github.com/joyent/node-http-signature//blob/master/LICENSE |
 | [https-browserify](https://github.com/substack/https-browserify) | MIT | https://github.com/substack/https-browserify/blob/master/LICENSE |
 | [iconv-lite](https://github.com/ashtuchkin/iconv-lite) | MIT | https://github.com/ashtuchkin/iconv-lite/blob/master/LICENSE |
-| [icss-replace-symbols](https://github.com/css-modules/icss-replace-symbols) | ISC | undefined |
+| [icss-replace-symbols](https://github.com/css-modules/icss-replace-symbols) | ISC | https://github.com/css-modules/icss-replace-symbols |
 | [ieee754](https://github.com/feross/ieee754) | MIT | https://github.com/feross/ieee754/blob/master/LICENSE |
 | [image-size](https://github.com/image-size/image-size) | MIT | https://github.com/image-size/image-size/blob/master/LICENSE |
 | [indent-string](https://github.com/sindresorhus/indent-string) | MIT | https://github.com/sindresorhus/indent-string/blob/master/license |
@@ -230,7 +230,7 @@
 | [inherits](https://github.com/isaacs/inherits) | ISC | https://github.com/isaacs/inherits/blob/master/LICENSE |
 | [ini](https://github.com/isaacs/ini) | ISC | https://github.com/isaacs/ini/blob/master/LICENSE |
 | [interpret](https://github.com/tkellen/node-interpret) | MIT | https://github.com/tkellen/node-interpret/blob/master/LICENSE |
-| [invert-kv](https://github.com/sindresorhus/invert-kv) | MIT | undefined |
+| [invert-kv](https://github.com/sindresorhus/invert-kv) | MIT | https://github.com/sindresorhus/invert-kv |
 | [ipaddr.js](https://github.com/whitequark/ipaddr.js) | MIT | https://github.com/whitequark/ipaddr.js/blob/master/LICENSE |
 | [is-absolute](https://github.com/jonschlinkert/is-absolute) | MIT | https://github.com/jonschlinkert/is-absolute/blob/master/LICENSE |
 | [is-absolute-url](https://github.com/sindresorhus/is-absolute-url) | MIT | https://github.com/sindresorhus/is-absolute-url/blob/master/license |
@@ -255,11 +255,11 @@
 | [is-svg](https://github.com/sindresorhus/is-svg) | MIT | https://github.com/sindresorhus/is-svg/blob/master/license |
 | [is-typedarray](https://github.com/hughsk/is-typedarray) | MIT | https://github.com/hughsk/is-typedarray/blob/master/LICENSE.md |
 | [is-utf8](https://github.com/wayfind/is-utf8) | MIT | https://github.com/wayfind/is-utf8/blob/master/LICENSE |
-| [isarray](https://github.com/juliangruber/isarray) | MIT | undefined |
+| [isarray](https://github.com/juliangruber/isarray) | MIT | https://github.com/juliangruber/isarray |
 | [isexe](https://github.com/isaacs/isexe) | ISC | https://github.com/isaacs/isexe/blob/master/LICENSE |
 | [isobject](https://github.com/jonschlinkert/isobject) | MIT | https://github.com/jonschlinkert/isobject/blob/master/LICENSE |
 | [isstream](https://github.com/rvagg/isstream) | MIT | https://github.com/rvagg/isstream/blob/master/LICENSE.md |
-| [jade](http://jade-lang.com) | MIT | http://jade-lang.com/blob/master/LICENSE |
+| [jade](http://jade-lang.com) | MIT | http://jade-lang.com |
 | [jodid25519](https://github.com/meganz/jodid25519) | MIT | https://github.com/meganz/jodid25519/blob/master/LICENSE |
 | [js-base64](https://github.com/dankogai/js-base64) | BSD | https://github.com/dankogai/js-base64/blob/master/LICENSE.md |
 | [js-yaml](https://github.com/nodeca/js-yaml) | MIT | https://github.com/nodeca/js-yaml/blob/master/LICENSE |
@@ -267,10 +267,10 @@
 | [json-schema](https://github.com/kriszyp/json-schema) | AFLv2.1 | http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L43 |
 | [json-stable-stringify](https://github.com/substack/json-stable-stringify) | MIT | https://github.com/substack/json-stable-stringify/blob/master/LICENSE |
 | [json-stringify-safe](https://github.com/isaacs/json-stringify-safe) | ISC | https://github.com/isaacs/json-stringify-safe/blob/master/LICENSE |
-| [json5](http://json5.org/) | MIT | undefined |
+| [json5](http://json5.org/) | MIT | http://json5.org/ |
 | [jsonfile](https://github.com/jprichardson/node-jsonfile) | MIT | https://github.com/jprichardson/node-jsonfile/blob/master/LICENSE |
-| [jsonify](https://github.com/substack/jsonify) | Public Domain | undefined |
-| [jsonpointer](https://github.com/janl/node-jsonpointer) | MIT | undefined |
+| [jsonify](https://github.com/substack/jsonify) | Public Domain | https://github.com/substack/jsonify |
+| [jsonpointer](https://github.com/janl/node-jsonpointer) | MIT | https://github.com/janl/node-jsonpointer |
 | [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | MIT | https://github.com/auth0/node-jsonwebtoken/blob/master/LICENSE |
 | [jsprim](https://github.com/davepacheco/node-jsprim) | MIT | https://github.com/davepacheco/node-jsprim/blob/master/LICENSE |
 | [jstransformer](https://github.com/jstransformers/jstransformer) | MIT | https://github.com/jstransformers/jstransformer/blob/master/LICENSE |
@@ -279,7 +279,7 @@
 | [kareem](https://github.com/vkarpov15/kareem) | Apache 2.0 | https://github.com/vkarpov15/kareem/blob/master/LICENSE |
 | [lazy-cache](https://github.com/jonschlinkert/lazy-cache) | MIT | https://github.com/jonschlinkert/lazy-cache/blob/master/LICENSE |
 | [lcid](https://github.com/sindresorhus/lcid) | MIT | https://github.com/sindresorhus/lcid/blob/master/license |
-| [less](http://lesscss.org) | Apache-2.0 | http://lesscss.org/blob/master/LICENSE |
+| [less](http://lesscss.org) | Apache-2.0 | http://lesscss.org |
 | [less-loader](https://github.com/webpack/less-loader) | MIT | http://www.opensource.org/licenses/mit-license.php |
 | [libbase64](https://github.com/andris9/libbase64) | MIT | https://github.com/andris9/libbase64/blob/master/LICENSE |
 | [libmime](https://github.com/andris9/libmime) | MIT | https://github.com/andris9/libmime/blob/master/LICENSE |
@@ -287,17 +287,17 @@
 | [load-json-file](https://github.com/sindresorhus/load-json-file) | MIT | https://github.com/sindresorhus/load-json-file/blob/master/license |
 | [loader-utils](https://github.com/webpack/loader-utils) | MIT | https://github.com/webpack/loader-utils/blob/master/LICENSE |
 | [lob](https://github.com/lob/lob-node) | Not specified | https://github.com/lob/lob-node/blob/master/LICENSE.txt |
-| [lodash](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash._createcompounder](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE.txt |
-| [lodash._root](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.camelcase](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE.txt |
-| [lodash.deburr](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.pad](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.padend](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.padstart](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.repeat](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.tostring](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
-| [lodash.words](https://lodash.com/) | MIT | https://lodash.com//blob/master/LICENSE |
+| [lodash](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash._createcompounder](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash._root](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.camelcase](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.deburr](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.pad](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.padend](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.padstart](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.repeat](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.tostring](https://lodash.com/) | MIT | https://lodash.com/ |
+| [lodash.words](https://lodash.com/) | MIT | https://lodash.com/ |
 | [longest](https://github.com/jonschlinkert/longest) | MIT | https://github.com/jonschlinkert/longest/blob/master/LICENSE |
 | [loud-rejection](https://github.com/sindresorhus/loud-rejection) | MIT | https://github.com/sindresorhus/loud-rejection/blob/master/license |
 | [lru-cache](https://github.com/isaacs/node-lru-cache) | ISC | https://github.com/isaacs/node-lru-cache/blob/master/LICENSE |
@@ -305,7 +305,7 @@
 | [mailcomposer](https://github.com/andris9/mailcomposer) | MIT | https://github.com/andris9/mailcomposer/blob/master/LICENSE |
 | [map-obj](https://github.com/sindresorhus/map-obj) | MIT | https://github.com/sindresorhus/map-obj/blob/master/license |
 | [media-typer](https://github.com/jshttp/media-typer) | MIT | https://github.com/jshttp/media-typer/blob/master/LICENSE |
-| [memory-fs](https://github.com/webpack/memory-fs) | MIT | undefined |
+| [memory-fs](https://github.com/webpack/memory-fs) | MIT | https://github.com/webpack/memory-fs |
 | [meow](https://github.com/sindresorhus/meow) | MIT | https://github.com/sindresorhus/meow/blob/master/license |
 | [merge-descriptors](https://github.com/component/merge-descriptors) | MIT | https://github.com/component/merge-descriptors/blob/master/LICENSE |
 | [method-override](https://github.com/expressjs/method-override) | MIT | https://github.com/expressjs/method-override/blob/master/LICENSE |
@@ -319,11 +319,11 @@
 | [minimatch](https://github.com/isaacs/minimatch) | ISC | https://github.com/isaacs/minimatch/blob/master/LICENSE |
 | [mkdirp](https://github.com/substack/node-mkdirp) | MIT | https://github.com/substack/node-mkdirp/blob/master/LICENSE |
 | [mocha](https://github.com/mochajs/mocha) | MIT | https://raw.github.com/mochajs/mocha/master/LICENSE |
-| [moment](http://momentjs.com) | MIT | http://momentjs.com/blob/master/LICENSE |
-| [moment-timezone](http://momentjs.com/timezone/) | MIT | http://momentjs.com/timezone//blob/master/LICENSE |
+| [moment](http://momentjs.com) | MIT | http://momentjs.com |
+| [moment-timezone](http://momentjs.com/timezone/) | MIT | http://momentjs.com/timezone/ |
 | [mongodb](https://github.com/mongodb/node-mongodb-native) | Apache-2.0 | https://github.com/mongodb/node-mongodb-native/blob/master/LICENSE |
 | [mongodb-core](https://github.com/christkv/mongodb-core) | Apache-2.0 | https://github.com/christkv/mongodb-core/blob/master/LICENSE |
-| [mongoose](http://mongoosejs.com) | MIT | undefined |
+| [mongoose](http://mongoosejs.com) | MIT | http://mongoosejs.com |
 | [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) | MIT | https://github.com/joegoldbeck/mongoose-encryption/blob/master/LICENSE |
 | [morgan](https://github.com/expressjs/morgan) | MIT | https://github.com/expressjs/morgan/blob/master/LICENSE |
 | [mpath](https://github.com/aheckmann/mpath) | MIT | https://github.com/aheckmann/mpath/blob/master/LICENSE |
@@ -337,11 +337,11 @@
 | [node-code-generator](https://github.com/palicao/node-code-generator) | MIT | https://github.com/palicao/node-code-generator/blob/master/LICENSE |
 | [node-forge](https://github.com/digitalbazaar/forge) | BSD | https://github.com/digitalbazaar/forge/raw/master/LICENSE |
 | [node-gyp](https://github.com/nodejs/node-gyp) | MIT | https://github.com/nodejs/node-gyp/blob/master/LICENSE |
-| [node-libs-browser](http://github.com/webpack/node-libs-browser) | MIT | undefined |
+| [node-libs-browser](http://github.com/webpack/node-libs-browser) | MIT | http://github.com/webpack/node-libs-browser |
 | [node-sass](https://github.com/sass/node-sass) | MIT | https://github.com/sass/node-sass/blob/master/LICENSE |
 | [node-sass-middleware](https://github.com/sass/node-sass-middleware) | MIT | https://github.com/sass/node-sass-middleware/blob/master/LICENSE |
 | [node-uuid](https://github.com/broofa/node-uuid) | MIT | https://raw.github.com/broofa/node-uuid/master/LICENSE.md |
-| [nodemailer](http://nodemailer.com/) | MIT | http://nodemailer.com//blob/master/LICENSE |
+| [nodemailer](http://nodemailer.com/) | MIT | http://nodemailer.com/ |
 | [nodemailer-direct-transport](http://github.com/andris9/nodemailer-direct-transport) | MIT | http://github.com/andris9/nodemailer-direct-transport/blob/master/LICENSE |
 | [nodemailer-fetch](https://github.com/nodemailer/nodemailer-fetch) | MIT | https://github.com/nodemailer/nodemailer-fetch/blob/master/LICENSE |
 | [nodemailer-shared](https://github.com/nodemailer/nodemailer-shared) | MIT | https://github.com/nodemailer/nodemailer-shared/blob/master/LICENSE |
@@ -355,7 +355,7 @@
 | [normalize-url](https://github.com/sindresorhus/normalize-url) | MIT | https://github.com/sindresorhus/normalize-url/blob/master/license |
 | [npmconf](https://github.com/npm/npmconf) | ISC | https://github.com/npm/npmconf/blob/master/LICENSE |
 | [npmlog](https://github.com/npm/npmlog) | ISC | https://github.com/npm/npmlog/blob/master/LICENSE |
-| [nth-check](https://github.com/fb55/nth-check) | BSD | undefined |
+| [nth-check](https://github.com/fb55/nth-check) | BSD | https://github.com/fb55/nth-check |
 | [num2fraction](https://github.com/yisibl/num2fraction) | MIT | https://github.com/yisibl/num2fraction/blob/master/LICENSE |
 | [number-is-nan](https://github.com/sindresorhus/number-is-nan) | MIT | https://github.com/sindresorhus/number-is-nan/blob/master/license |
 | [oauth](https://github.com/ciaranj/node-oauth) | MIT | http://github.com/ciaranj/node-oauth/raw/master/LICENSE |
@@ -366,13 +366,13 @@
 | [on-finished](https://github.com/jshttp/on-finished) | MIT | https://github.com/jshttp/on-finished/blob/master/LICENSE |
 | [on-headers](https://github.com/jshttp/on-headers) | MIT | https://github.com/jshttp/on-headers/blob/master/LICENSE |
 | [once](https://github.com/isaacs/once) | ISC | https://github.com/isaacs/once/blob/master/LICENSE |
-| [onecolor](https://github.com/One-com/one-color) | Not specified | undefined |
+| [onecolor](https://github.com/One-com/one-color) | Not specified | https://github.com/One-com/one-color/blob/master/LICENSE |
 | [openid](https://github.com/havard/node-openid) | MIT | http://github.com/havard/node-openid/raw/master/LICENSE |
 | [optimist](https://github.com/substack/node-optimist) | MIT/X11 | https://github.com/substack/node-optimist/blob/master/LICENSE |
 | [os-browserify](https://github.com/drewyoung1/os-browserify) | MIT | https://github.com/drewyoung1/os-browserify/blob/master/LICENSE |
 | [os-homedir](https://github.com/sindresorhus/os-homedir) | MIT | https://github.com/sindresorhus/os-homedir/blob/master/license |
 | [os-locale](https://github.com/sindresorhus/os-locale) | MIT | https://github.com/sindresorhus/os-locale/blob/master/license |
-| [os-shim](http://github.com/h2non/node-os-shim) | undefined | http://github.com/h2non/node-os-shim/blob/master/LICENSE |
+| [os-shim](http://github.com/h2non/node-os-shim) | MIT | http://github.com/h2non/node-os-shim/blob/master/LICENSE |
 | [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) | MIT | https://github.com/sindresorhus/os-tmpdir/blob/master/license |
 | [osenv](https://github.com/npm/osenv) | ISC | https://github.com/npm/osenv/blob/master/LICENSE |
 | [pako](https://github.com/nodeca/pako) | MIT | https://github.com/nodeca/pako/blob/master/LICENSE |
@@ -386,7 +386,7 @@
 | [passport-http](https://github.com/jaredhanson/passport-http) | MIT | http://www.opensource.org/licenses/MIT |
 | [passport-http-bearer](https://github.com/jaredhanson/passport-http-bearer) | MIT | http://www.opensource.org/licenses/MIT |
 | [passport-instagram](https://github.com/jaredhanson/passport-instagram) | MIT | http://www.opensource.org/licenses/MIT |
-| [passport-linkedin-oauth2](https://github.com/auth0/passport-linkedin-oauth2) | MIT | undefined |
+| [passport-linkedin-oauth2](https://github.com/auth0/passport-linkedin-oauth2) | MIT | https://github.com/auth0/passport-linkedin-oauth2 |
 | [passport-local](https://github.com/jaredhanson/passport-local) | MIT | http://www.opensource.org/licenses/MIT |
 | [passport-oauth](https://github.com/jaredhanson/passport-oauth) | MIT | http://www.opensource.org/licenses/MIT |
 | [passport-oauth1](https://github.com/jaredhanson/passport-oauth1) | MIT | http://www.opensource.org/licenses/MIT |
@@ -406,7 +406,7 @@
 | [pinkie](https://github.com/floatdrop/pinkie) | MIT | https://github.com/floatdrop/pinkie/blob/master/license |
 | [pinkie-promise](https://github.com/floatdrop/pinkie-promise) | MIT | https://github.com/floatdrop/pinkie-promise/blob/master/license |
 | [pkginfo](https://github.com/indexzero/node-pkginfo) | MIT | https://github.com/indexzero/node-pkginfo/blob/master/LICENSE |
-| [postcss](http://postcss.org/) | MIT | http://postcss.org//blob/master/LICENSE |
+| [postcss](http://postcss.org/) | MIT | http://postcss.org/ |
 | [postcss-calc](https://github.com/postcss/postcss-calc) | MIT | https://github.com/postcss/postcss-calc/blob/master/LICENSE |
 | [postcss-colormin](https://github.com/ben-eb/postcss-colormin) | MIT | https://github.com/ben-eb/postcss-colormin/blob/master/LICENSE-MIT |
 | [postcss-convert-values](https://github.com/ben-eb/postcss-convert-values) | MIT | https://github.com/ben-eb/postcss-convert-values/blob/master/LICENSE-MIT |
@@ -423,10 +423,10 @@
 | [postcss-minify-gradients](https://github.com/ben-eb/postcss-minify-gradients) | MIT | https://github.com/ben-eb/postcss-minify-gradients/blob/master/LICENSE-MIT |
 | [postcss-minify-params](https://github.com/TrySound/postcss-minify-params) | MIT | https://github.com/TrySound/postcss-minify-params/blob/master/LICENSE |
 | [postcss-minify-selectors](https://github.com/ben-eb/postcss-minify-selectors) | MIT | https://github.com/ben-eb/postcss-minify-selectors/blob/master/LICENSE-MIT |
-| [postcss-modules-extract-imports](https://github.com/css-modules/postcss-modules-extract-imports) | ISC | undefined |
+| [postcss-modules-extract-imports](https://github.com/css-modules/postcss-modules-extract-imports) | ISC | https://github.com/css-modules/postcss-modules-extract-imports |
 | [postcss-modules-local-by-default](https://github.com/css-modules/postcss-modules-local-by-default) | MIT | https://github.com/css-modules/postcss-modules-local-by-default/blob/master/LICENSE |
-| [postcss-modules-scope](https://github.com/geelen/postcss-modules-scope) | ISC | undefined |
-| [postcss-modules-values](https://github.com/css-modules/postcss-modules-constants) | ISC | undefined |
+| [postcss-modules-scope](https://github.com/geelen/postcss-modules-scope) | ISC | https://github.com/geelen/postcss-modules-scope |
+| [postcss-modules-values](https://github.com/css-modules/postcss-modules-constants) | ISC | https://github.com/css-modules/postcss-modules-constants |
 | [postcss-normalize-charset](https://github.com/TrySound/postcss-charset) | MIT | https://github.com/TrySound/postcss-charset/blob/master/LICENSE |
 | [postcss-normalize-url](https://github.com/ben-eb/postcss-normalize-url) | MIT | https://github.com/ben-eb/postcss-normalize-url/blob/master/LICENSE-MIT |
 | [postcss-ordered-values](https://github.com/ben-eb/postcss-ordered-values) | MIT | https://github.com/ben-eb/postcss-ordered-values/blob/master/LICENSE-MIT |
@@ -447,7 +447,7 @@
 | [proxy-addr](https://github.com/jshttp/proxy-addr) | MIT | https://github.com/jshttp/proxy-addr/blob/master/LICENSE |
 | [prr](https://github.com/rvagg/prr) | MIT | https://github.com/rvagg/prr/blob/master/LICENSE |
 | [pseudomap](https://github.com/isaacs/pseudomap) | ISC | https://github.com/isaacs/pseudomap/blob/master/LICENSE |
-| [punycode](https://mths.be/punycode) | MIT | https://mths.be/punycode/blob/master/LICENSE-MIT.txt |
+| [punycode](https://mths.be/punycode) | MIT | https://mths.be/punycode |
 | [q](https://github.com/kriskowal/q) | MIT | http://github.com/kriskowal/q/raw/master/LICENSE |
 | [qs](https://github.com/ljharb/qs) | BSD-3-Clause | https://github.com/ljharb/qs/blob/master/LICENSE |
 | [query-string](https://github.com/sindresorhus/query-string) | MIT | https://github.com/sindresorhus/query-string/blob/master/license |
@@ -474,7 +474,7 @@
 | [resolve-url](https://github.com/lydell/resolve-url) | MIT | https://github.com/lydell/resolve-url/blob/master/LICENSE |
 | [right-align](https://github.com/jonschlinkert/right-align) | MIT | https://github.com/jonschlinkert/right-align/blob/master/LICENSE |
 | [rimraf](https://github.com/isaacs/rimraf) | ISC | https://github.com/isaacs/rimraf/blob/master/LICENSE |
-| [sass-graph](https://github.com/xzyfer/sass-graph) | MIT | undefined |
+| [sass-graph](https://github.com/xzyfer/sass-graph) | MIT | https://github.com/xzyfer/sass-graph |
 | [sass-loader](https://github.com/jtangelder/sass-loader) | MIT | https://github.com/jtangelder/sass-loader/blob/master/LICENSE |
 | [sax](https://github.com/isaacs/sax-js) | ISC | https://github.com/isaacs/sax-js/blob/master/LICENSE |
 | [semver](https://github.com/npm/node-semver) | ISC | https://github.com/npm/node-semver/blob/master/LICENSE |
@@ -488,13 +488,13 @@
 | [smtp-connection](https://github.com/andris9/smtp-connection) | MIT | https://github.com/andris9/smtp-connection/blob/master/LICENSE |
 | [sntp](https://github.com/hueniverse/sntp) | BSD | http://github.com/hueniverse/sntp/raw/master/LICENSE |
 | [sort-keys](https://github.com/sindresorhus/sort-keys) | MIT | https://github.com/sindresorhus/sort-keys/blob/master/license |
-| [source-list-map](https://github.com/webpack/source-list-map) | MIT | undefined |
+| [source-list-map](https://github.com/webpack/source-list-map) | MIT | https://github.com/webpack/source-list-map |
 | [source-map](https://github.com/mozilla/source-map) | BSD | http://opensource.org/licenses/BSD-3-Clause |
-| [source-map-resolve](https://github.com/lydell/source-map-resolve) | MIT | undefined |
-| [source-map-url](https://github.com/lydell/source-map-url) | MIT | undefined |
+| [source-map-resolve](https://github.com/lydell/source-map-resolve) | MIT | https://github.com/lydell/source-map-resolve |
+| [source-map-url](https://github.com/lydell/source-map-url) | MIT | https://github.com/lydell/source-map-url |
 | [spawn-sync](https://github.com/ForbesLindesay/spawn-sync) | MIT | https://github.com/ForbesLindesay/spawn-sync/blob/master/LICENSE |
 | [spdx-correct](https://github.com/kemitchell/spdx-correct.js) | Apache-2.0 | https://github.com/kemitchell/spdx-correct.js/blob/master/LICENSE |
-| [spdx-exceptions](https://github.com/kemitchell/spdx-exceptions.json) | CC-BY-3.0 | undefined |
+| [spdx-exceptions](https://github.com/kemitchell/spdx-exceptions.json) | CC-BY-3.0 | https://github.com/kemitchell/spdx-exceptions.json |
 | [spdx-expression-parse](https://github.com/kemitchell/spdx-expression-parse.js) | (MIT AND CC-BY-3.0) | https://github.com/kemitchell/spdx-expression-parse.js/blob/master/LICENSE |
 | [spdx-license-ids](https://github.com/shinnn/spdx-license-ids) | Unlicense | https://github.com/shinnn/spdx-license-ids/blob/master/LICENSE |
 | [sprintf-js](https://github.com/alexei/sprintf.js) | BSD-3-Clause | https://github.com/alexei/sprintf.js/blob/master/LICENSE |
@@ -502,7 +502,7 @@
 | [stack-trace](https://github.com/felixge/node-stack-trace) | Not specified | https://github.com/felixge/node-stack-trace/blob/master/License |
 | [statuses](https://github.com/jshttp/statuses) | MIT | https://github.com/jshttp/statuses/blob/master/LICENSE |
 | [stream-browserify](https://github.com/substack/stream-browserify) | MIT | https://github.com/substack/stream-browserify/blob/master/LICENSE |
-| [stream-transform](http://csv.adaltas.com/transform/) | BSD-3-Clause | http://csv.adaltas.com/transform//blob/master/LICENSE |
+| [stream-transform](http://csv.adaltas.com/transform/) | BSD-3-Clause | http://csv.adaltas.com/transform/ |
 | [strict-uri-encode](https://github.com/kevva/strict-uri-encode) | MIT | https://github.com/kevva/strict-uri-encode/blob/master/license |
 | [string-width](https://github.com/sindresorhus/string-width) | MIT | https://github.com/sindresorhus/string-width/blob/master/license |
 | [string_decoder](https://github.com/rvagg/string_decoder) | MIT | https://github.com/rvagg/string_decoder/blob/master/LICENSE |
@@ -514,28 +514,28 @@
 | [supertest](https://github.com/visionmedia/supertest) | MIT | https://github.com/visionmedia/supertest/blob/master/LICENSE |
 | [supports-color](https://github.com/chalk/supports-color) | MIT | https://github.com/chalk/supports-color/blob/master/license |
 | [svgo](https://github.com/svg/svgo) | MIT | https://github.com/svg/svgo/blob/master/LICENSE |
-| [tapable](https://github.com/webpack/tapable) | MIT | undefined |
+| [tapable](https://github.com/webpack/tapable) | MIT | https://github.com/webpack/tapable |
 | [tar](https://github.com/isaacs/node-tar) | ISC | https://github.com/isaacs/node-tar/blob/master/LICENSE |
 | [timers-browserify](https://github.com/jryans/timers-browserify) | MIT | https://github.com/jryans/timers-browserify/blob/master/LICENSE.md |
 | [tough-cookie](https://github.com/SalesforceEng/tough-cookie) | BSD-3-Clause | https://github.com/SalesforceEng/tough-cookie/blob/master/LICENSE |
-| [transformers](https://github.com/ForbesLindesay/transformers) | MIT | undefined |
+| [transformers](https://github.com/ForbesLindesay/transformers) | MIT | https://github.com/ForbesLindesay/transformers |
 | [trim-newlines](https://github.com/sindresorhus/trim-newlines) | MIT | https://github.com/sindresorhus/trim-newlines/blob/master/license |
 | [tty-browserify](https://github.com/substack/tty-browserify) | MIT | https://github.com/substack/tty-browserify/blob/master/LICENSE |
 | [tunnel-agent](https://github.com/mikeal/tunnel-agent) | Apache-2.0 | https://github.com/mikeal/tunnel-agent/blob/master/LICENSE |
-| [tweetnacl](https://tweetnacl.js.org) | SEE LICENSE IN COPYING.txt | undefined |
-| [type-detect](https://github.com/chaijs/type-detect) | MIT | undefined |
+| [tweetnacl](https://tweetnacl.js.org) | SEE LICENSE IN COPYING.txt | https://tweetnacl.js.org |
+| [type-detect](https://github.com/chaijs/type-detect) | MIT | https://github.com/chaijs/type-detect |
 | [type-is](https://github.com/jshttp/type-is) | MIT | https://github.com/jshttp/type-is/blob/master/LICENSE |
 | [typedarray](https://github.com/substack/typedarray) | MIT | https://github.com/substack/typedarray/blob/master/LICENSE |
-| [uglify-js](http://lisperator.net/uglifyjs) | BSD-2-Clause | http://lisperator.net/uglifyjs/blob/master/LICENSE |
+| [uglify-js](http://lisperator.net/uglifyjs) | BSD-2-Clause | http://lisperator.net/uglifyjs |
 | [uglify-to-browserify](https://github.com/ForbesLindesay/uglify-to-browserify) | MIT | https://github.com/ForbesLindesay/uglify-to-browserify/blob/master/LICENSE |
 | [uid-number](https://github.com/isaacs/uid-number) | ISC | https://github.com/isaacs/uid-number/blob/master/LICENSE |
 | [uid-safe](https://github.com/crypto-utils/uid-safe) | MIT | https://github.com/crypto-utils/uid-safe/blob/master/LICENSE |
-| [uid2](undefined) | Not specified | undefined/blob/master/LICENSE |
+| [uid2](undefined) | Not specified | undefined |
 | [underscore](http://underscorejs.org) | MIT | https://raw.github.com/jashkenas/underscore/master/LICENSE |
-| [underscore.string](http://epeli.github.com/underscore.string/) | MIT | undefined |
+| [underscore.string](http://epeli.github.com/underscore.string/) | MIT | http://epeli.github.com/underscore.string/ |
 | [uniq](https://github.com/mikolalysenko/uniq) | MIT | https://github.com/mikolalysenko/uniq/blob/master/LICENSE |
-| [uniqid](http://github.com/adamhalasz/diet-uniqid/) | MIT | undefined |
-| [uniqs](https://github.com/fgnass/uniqs) | MIT | undefined |
+| [uniqid](http://github.com/adamhalasz/diet-uniqid/) | MIT | http://github.com/adamhalasz/diet-uniqid/ |
+| [uniqs](https://github.com/fgnass/uniqs) | MIT | https://github.com/fgnass/uniqs |
 | [unpipe](https://github.com/stream-utils/unpipe) | MIT | https://github.com/stream-utils/unpipe/blob/master/LICENSE |
 | [urix](https://github.com/lydell/urix) | MIT | https://github.com/lydell/urix/blob/master/LICENSE |
 | [url](https://github.com/defunctzombie/node-url) | MIT | https://github.com/defunctzombie/node-url/blob/master/LICENSE |
@@ -549,25 +549,25 @@
 | [verror](https://github.com/davepacheco/node-verror) | Not specified | https://github.com/davepacheco/node-verror/blob/master/LICENSE |
 | [vm-browserify](https://github.com/substack/vm-browserify) | MIT | https://github.com/substack/vm-browserify/blob/master/LICENSE |
 | [void-elements](https://github.com/hemanth/void-elements) | MIT | https://github.com/hemanth/void-elements/blob/master/LICENSE |
-| [watchpack](https://github.com/webpack/watchpack) | MIT | undefined |
+| [watchpack](https://github.com/webpack/watchpack) | MIT | https://github.com/webpack/watchpack |
 | [webpack](https://github.com/webpack/webpack) | MIT | https://github.com/webpack/webpack/blob/master/LICENSE |
 | [webpack-core](http://github.com/webpack/core) | MIT | http://www.opensource.org/licenses/mit-license.php |
-| [webpack-sources](https://github.com/webpack/webpack-sources) | MIT | undefined |
+| [webpack-sources](https://github.com/webpack/webpack-sources) | MIT | https://github.com/webpack/webpack-sources |
 | [whet.extend](https://github.com/Meettya/whet.extend) | MIT | https://github.com/Meettya/whet.extend/blob/master/LICENSE |
 | [which](https://github.com/isaacs/node-which) | ISC | https://github.com/isaacs/node-which/blob/master/LICENSE |
 | [window-size](https://github.com/jonschlinkert/window-size) | MIT | https://github.com/jonschlinkert/window-size/blob/master/LICENSE-MIT |
 | [winston](https://github.com/winstonjs/winston) | MIT | https://github.com/winstonjs/winston/blob/master/LICENSE |
 | [with](https://github.com/ForbesLindesay/with) | MIT | https://github.com/ForbesLindesay/with/blob/master/LICENSE |
-| [wordwrap](https://github.com/substack/node-wordwrap) | MIT/X11 | undefined |
+| [wordwrap](https://github.com/substack/node-wordwrap) | MIT/X11 | https://github.com/substack/node-wordwrap |
 | [wrap-ansi](https://github.com/chalk/wrap-ansi) | MIT | https://github.com/chalk/wrap-ansi/blob/master/license |
 | [wrappy](https://github.com/npm/wrappy) | ISC | https://github.com/npm/wrappy/blob/master/LICENSE |
 | [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | MIT | https://github.com/Leonidas-from-XIV/node-xml2js/blob/master/LICENSE |
 | [xmlbuilder](http://github.com/oozcitak/xmlbuilder-js) | MIT | http://github.com/oozcitak/xmlbuilder-js/blob/master/LICENSE |
 | [xmldom](https://github.com/jindw/xmldom) | LGPL | http://www.gnu.org/licenses/lgpl.html |
-| [xpath.js](https://github.com/yaronn/xpath.js) | MIT | undefined |
-| [xtend](https://github.com/Raynos/xtend) | MIT | undefined |
+| [xpath.js](https://github.com/yaronn/xpath.js) | MIT | https://github.com/yaronn/xpath.js |
+| [xtend](https://github.com/Raynos/xtend) | MIT | https://github.com/Raynos/xtend |
 | [xtraverse](https://github.com/jaredhanson/node-xtraverse) | MIT | http://www.opensource.org/licenses/MIT |
-| [y18n](https://github.com/bcoe/y18n) | ISC | undefined |
+| [y18n](https://github.com/bcoe/y18n) | ISC | https://github.com/bcoe/y18n |
 | [yallist](https://github.com/isaacs/yallist) | ISC | https://github.com/isaacs/yallist/blob/master/LICENSE |
 | [yargs](https://github.com/bcoe/yargs) | MIT/X11 | https://github.com/bcoe/yargs/blob/master/LICENSE |
 | [yui](https://github.com/yui/yui3) | BSD | http://yuilibrary.com/license/ |
@@ -947,7 +947,7 @@ Mark Cavage
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/mcavage/node-assert-plus)
 
 ## assertion-error
 #### Version
@@ -962,7 +962,7 @@ http://qualiancy.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/chaijs/assertion-error)
 
 ## async
 #### Version
@@ -989,7 +989,7 @@ http://paulmillr.com/
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/paulmillr/async-each/)
 
 ## async-foreach
 #### Version
@@ -1185,7 +1185,7 @@ Michael Mclaughlin
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/MikeMcl/big.js)
 
 ## binary-extensions
 #### Version
@@ -1281,7 +1281,7 @@ Felix Boehm
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/fb55/boolbase)
 
 ## boom
 #### Version
@@ -1311,7 +1311,7 @@ http://juliangruber.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/juliangruber/brace-expansion)
 
 ## braces
 #### Version
@@ -1339,7 +1339,7 @@ Devon Govett
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/devongovett/browserify-zlib)
 
 ## browserslist
 #### Version
@@ -1483,7 +1483,7 @@ Alexis Deveria
 #### License
 CC-BY-4.0
 
-[View license](undefined)
+[View license](https://github.com/Fyrd/caniuse)
 
 ## caseless
 #### Version
@@ -1525,7 +1525,7 @@ Jake Luer
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://chaijs.com)
 
 ## chalk
 #### Version
@@ -1565,7 +1565,7 @@ mat.io
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/cheeriojs/cheerio)
 
 ## chokidar
 #### Version
@@ -1579,7 +1579,7 @@ http://paulmillr.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/paulmillr/chokidar)
 
 ## clap
 #### Version
@@ -1664,7 +1664,7 @@ http://github.com/veged
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://github.com/veged/coa)
 
 ## code-point-at
 #### Version
@@ -1886,7 +1886,7 @@ MIT
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/kcbanner/connect-mongo)
 
 ## console-browserify
 #### Version
@@ -1928,7 +1928,7 @@ http://juliangruber.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/juliangruber/constants-browserify)
 
 ## content-disposition
 #### Version
@@ -1997,7 +1997,7 @@ TJ Holowaychuk
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/visionmedia/node-cookie-signature)
 
 ## core-util-is
 #### Version
@@ -2115,7 +2115,7 @@ http://www.daveeddy.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/bahamas10/css-color-names)
 
 ## css-loader
 #### Version
@@ -2128,7 +2128,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/css-loader)
 
 ## css-parse
 #### Version
@@ -2142,7 +2142,7 @@ TJ Holowaychuk
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/reworkcss/css-parse)
 
 ## css-select
 #### Version
@@ -2169,7 +2169,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/css-modules/css-selector-tokenizer)
 
 ## css-stringify
 #### Version
@@ -2183,7 +2183,7 @@ TJ Holowaychuk
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/reworkcss/css-stringify)
 
 ## css-what
 #### Version
@@ -2272,7 +2272,7 @@ http://www.adaltas.com
 #### License
 BSD-3-Clause
 
-[View license](http://www.adaltas.com/projects/node-csv//blob/master/LICENSE)
+[View license](http://www.adaltas.com/projects/node-csv/)
 
 ## csv-generate
 #### Version
@@ -2284,7 +2284,7 @@ BSD-3-Clause
 #### License
 BSD-3-Clause
 
-[View license](http://csv.adaltas.com/generate//blob/master/LICENSE)
+[View license](http://csv.adaltas.com/generate/)
 
 ## csv-parse
 #### Version
@@ -2296,7 +2296,7 @@ BSD-3-Clause
 #### License
 BSD-3-Clause
 
-[View license](http://csv.adaltas.com/parse//blob/master/LICENSE)
+[View license](http://csv.adaltas.com/parse/)
 
 ## csv-stringify
 #### Version
@@ -2308,7 +2308,7 @@ BSD-3-Clause
 #### License
 BSD-3-Clause
 
-[View license](http://csv.adaltas.com/stringify//blob/master/LICENSE)
+[View license](http://csv.adaltas.com/stringify/)
 
 ## csvtojson
 #### Version
@@ -2322,7 +2322,7 @@ Keyang Xiang
 #### License
 undefined
 
-[View license](http://keyangxiang.com/blog/csv2json//blob/master/LICENSE)
+[View license](http://keyangxiang.com/blog/csv2json/)
 
 ## ctype
 #### Version
@@ -2348,7 +2348,7 @@ Not specified
 #### License
 Not specified
 
-[View license](undefined)
+[View license](https://github.com/douglascrockford/JSON-js)
 
 ## d
 #### Version
@@ -2363,7 +2363,7 @@ http://www.medikoo.com/
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/medikoo/d)
 
 ## dashdash
 #### Version
@@ -2378,7 +2378,7 @@ http://trentm.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/trentm/node-dashdash)
 
 ## date-now
 #### Version
@@ -2407,7 +2407,7 @@ http://legitimatesounding.com/blog/
 #### License
 MIT
 
-[View license](https://jerrysievert.github.io/date-utils//blob/master/LICENSE)
+[View license](https://jerrysievert.github.io/date-utils/)
 
 ## debug
 #### Version
@@ -2421,7 +2421,7 @@ TJ Holowaychuk
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/visionmedia/debug)
 
 ## decamelize
 #### Version
@@ -2450,7 +2450,7 @@ Jake Luer
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/chaijs/deep-eql)
 
 ## defined
 #### Version
@@ -2617,7 +2617,7 @@ scottmotte
 #### License
 BSD-2-Clause
 
-[View license](undefined)
+[View license](https://github.com/motdotla/dotenv)
 
 ## dotty
 #### Version
@@ -2714,7 +2714,7 @@ BSD-like
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/rvagg/node-errno)
 
 ## error-ex
 #### Version
@@ -2907,7 +2907,7 @@ RGBboy
 #### License
 Not specified
 
-[View license](undefined)
+[View license](https://github.com/RGBboy/express-flash)
 
 ## express-session
 #### Version
@@ -2940,7 +2940,7 @@ MIT
 
 ## extend
 #### Version
-1.2.1
+3.0.0
 #### Author
 justmoon@members.fsf.org
 Stefan Thomas
@@ -2949,9 +2949,9 @@ http://www.justmoon.net
 #### URL
 [https://github.com/justmoon/node-extend](https://github.com/justmoon/node-extend)
 #### License
-Not specified
+MIT
 
-[View license](undefined)
+[View license](https://github.com/justmoon/node-extend/blob/master/LICENSE)
 
 ## extglob
 #### Version
@@ -2978,7 +2978,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://github.com/webpack/extract-text-webpack-plugin)
 
 ## extsprintf
 #### Version
@@ -3000,11 +3000,11 @@ self@cloudhead.net
 Alexis Sellier
 
 #### URL
-[undefined](undefined)
+[http://github.com/cloudhead/eyes.js](http://github.com/cloudhead/eyes.js)
 #### License
-undefined
+MIT
 
-[View license](undefined/blob/master/LICENSE)
+[View license](http://github.com/cloudhead/eyes.js/blob/master/LICENSE)
 
 ## fastparse
 #### Version
@@ -3017,7 +3017,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/fastparse)
 
 ## file-stream-rotator
 #### Version
@@ -3030,7 +3030,7 @@ Roger Castells
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/holidayextras/file-stream-rotator)
 
 ## filename-regex
 #### Version
@@ -3286,7 +3286,7 @@ Mathias Buus
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/mafintosh/generate-function)
 
 ## generate-object-property
 #### Version
@@ -3315,7 +3315,7 @@ http://sindresorhus.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/sindresorhus/get-stdin)
 
 ## glob
 #### Version
@@ -3403,17 +3403,17 @@ MIT
 
 ## growl
 #### Version
-1.8.1
+1.9.2
 #### Author
 tj@vision-media.ca
 TJ Holowaychuk
 
 #### URL
-[https://github.com/visionmedia/node-growl](https://github.com/visionmedia/node-growl)
+[https://github.com/tj/node-growl](https://github.com/tj/node-growl)
 #### License
-Not specified
+MIT
 
-[View license](undefined)
+[View license](https://github.com/tj/node-growl)
 
 ## har-validator
 #### Version
@@ -3529,9 +3529,9 @@ https://github.com/bnoguchi/
 #### URL
 [https://github.com/vkarpov15/hooks-fixed/](https://github.com/vkarpov15/hooks-fixed/)
 #### License
-undefined
+MIT
 
-[View license](undefined)
+[View license](https://github.com/vkarpov15/hooks-fixed/)
 
 ## hosted-git-info
 #### Version
@@ -3645,7 +3645,7 @@ Glen Maddern
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/css-modules/icss-replace-symbols)
 
 ## ieee754
 #### Version
@@ -3788,7 +3788,7 @@ http://sindresorhus.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/sindresorhus/invert-kv)
 
 ## ipaddr.js
 #### Version
@@ -4144,7 +4144,7 @@ http://juliangruber.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/juliangruber/isarray)
 
 ## isexe
 #### Version
@@ -4201,7 +4201,7 @@ TJ Holowaychuk
 #### License
 MIT
 
-[View license](http://jade-lang.com/blob/master/LICENSE)
+[View license](http://jade-lang.com)
 
 ## jodid25519
 #### Version
@@ -4311,7 +4311,7 @@ Aseem Kishore
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://json5.org/)
 
 ## jsonfile
 #### Version
@@ -4339,7 +4339,7 @@ http://crockford.com/
 #### License
 Public Domain
 
-[View license](undefined)
+[View license](https://github.com/substack/jsonify)
 
 ## jsonpointer
 #### Version
@@ -4353,7 +4353,7 @@ Jan Lehnardt
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/janl/node-jsonpointer)
 
 ## jsonwebtoken
 #### Version
@@ -4474,7 +4474,7 @@ Alexis Sellier
 #### License
 Apache-2.0
 
-[View license](http://lesscss.org/blob/master/LICENSE)
+[View license](http://lesscss.org)
 
 ## less-loader
 #### Version
@@ -4585,7 +4585,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash._createcompounder
 #### Version
@@ -4600,7 +4600,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE.txt)
+[View license](https://lodash.com/)
 
 ## lodash._root
 #### Version
@@ -4615,7 +4615,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.camelcase
 #### Version
@@ -4630,7 +4630,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE.txt)
+[View license](https://lodash.com/)
 
 ## lodash.deburr
 #### Version
@@ -4645,7 +4645,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.pad
 #### Version
@@ -4660,7 +4660,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.padend
 #### Version
@@ -4675,7 +4675,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.padstart
 #### Version
@@ -4690,7 +4690,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.repeat
 #### Version
@@ -4705,7 +4705,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.tostring
 #### Version
@@ -4720,7 +4720,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## lodash.words
 #### Version
@@ -4735,7 +4735,7 @@ http://allyoucanleet.com/
 #### License
 MIT
 
-[View license](https://lodash.com//blob/master/LICENSE)
+[View license](https://lodash.com/)
 
 ## longest
 #### Version
@@ -4847,7 +4847,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/memory-fs)
 
 ## meow
 #### Version
@@ -5043,7 +5043,7 @@ https://github.com/ichernev
 #### License
 MIT
 
-[View license](http://momentjs.com/blob/master/LICENSE)
+[View license](http://momentjs.com)
 
 ## moment-timezone
 #### Version
@@ -5058,7 +5058,7 @@ http://timwoodcreates.com/
 #### License
 MIT
 
-[View license](http://momentjs.com/timezone//blob/master/LICENSE)
+[View license](http://momentjs.com/timezone/)
 
 ## mongodb
 #### Version
@@ -5098,7 +5098,7 @@ Guillermo Rauch
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://mongoosejs.com)
 
 ## mongoose-encryption
 #### Version
@@ -5288,7 +5288,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://github.com/webpack/node-libs-browser)
 
 ## node-sass
 #### Version
@@ -5345,7 +5345,7 @@ Andris Reinman
 #### License
 MIT
 
-[View license](http://nodemailer.com//blob/master/LICENSE)
+[View license](http://nodemailer.com/)
 
 ## nodemailer-direct-transport
 #### Version
@@ -5540,7 +5540,7 @@ Felix Boehm
 #### License
 BSD
 
-[View license](undefined)
+[View license](https://github.com/fb55/nth-check)
 
 ## num2fraction
 #### Version
@@ -5688,7 +5688,7 @@ ISC
 
 ## onecolor
 #### Version
-2.5.0
+3.0.1
 #### Author
 
 #### URL
@@ -5696,7 +5696,7 @@ ISC
 #### License
 Not specified
 
-[View license](undefined)
+[View license](https://github.com/One-com/one-color/blob/master/LICENSE)
 
 ## openid
 #### Version
@@ -5779,7 +5779,7 @@ MIT
 #### URL
 [http://github.com/h2non/node-os-shim](http://github.com/h2non/node-os-shim)
 #### License
-undefined
+MIT
 
 [View license](http://github.com/h2non/node-os-shim/blob/master/LICENSE)
 
@@ -5985,7 +5985,7 @@ Auth0
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/auth0/passport-linkedin-oauth2)
 
 ## passport-local
 #### Version
@@ -6277,7 +6277,7 @@ Andrey Sitnik
 #### License
 MIT
 
-[View license](http://postcss.org//blob/master/LICENSE)
+[View license](http://postcss.org/)
 
 ## postcss-calc
 #### Version
@@ -6524,7 +6524,7 @@ Glen Maddern
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/css-modules/postcss-modules-extract-imports)
 
 ## postcss-modules-local-by-default
 #### Version
@@ -6550,7 +6550,7 @@ Glen Maddern
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/geelen/postcss-modules-scope)
 
 ## postcss-modules-values
 #### Version
@@ -6563,7 +6563,7 @@ Glen Maddern
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/css-modules/postcss-modules-constants)
 
 ## postcss-normalize-charset
 #### Version
@@ -6863,7 +6863,7 @@ https://mathiasbynens.be/
 #### License
 MIT
 
-[View license](https://mths.be/punycode/blob/master/LICENSE-MIT.txt)
+[View license](https://mths.be/punycode)
 
 ## q
 #### Version
@@ -7245,7 +7245,7 @@ xzyfer
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/xzyfer/sass-graph)
 
 ## sass-loader
 #### Version
@@ -7441,7 +7441,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/source-list-map)
 
 ## source-map
 #### Version
@@ -7468,7 +7468,7 @@ Simon Lydell
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/lydell/source-map-resolve)
 
 ## source-map-url
 #### Version
@@ -7481,7 +7481,7 @@ Simon Lydell
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/lydell/source-map-url)
 
 ## spawn-sync
 #### Version
@@ -7522,7 +7522,7 @@ The Linux Foundation
 #### License
 CC-BY-3.0
 
-[View license](undefined)
+[View license](https://github.com/kemitchell/spdx-exceptions.json)
 
 ## spdx-expression-parse
 #### Version
@@ -7636,7 +7636,7 @@ MIT
 #### License
 BSD-3-Clause
 
-[View license](http://csv.adaltas.com/transform//blob/master/LICENSE)
+[View license](http://csv.adaltas.com/transform/)
 
 ## strict-uri-encode
 #### Version
@@ -7809,7 +7809,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/tapable)
 
 ## tar
 #### Version
@@ -7866,7 +7866,7 @@ ForbesLindesay
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/ForbesLindesay/transformers)
 
 ## trim-newlines
 #### Version
@@ -7924,7 +7924,7 @@ TweetNaCl-js contributors
 #### License
 SEE LICENSE IN COPYING.txt
 
-[View license](undefined)
+[View license](https://tweetnacl.js.org)
 
 ## type-detect
 #### Version
@@ -7939,7 +7939,7 @@ http://alogicalparadox.com
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/chaijs/type-detect)
 
 ## type-is
 #### Version
@@ -7981,7 +7981,7 @@ http://lisperator.net/
 #### License
 BSD-2-Clause
 
-[View license](http://lisperator.net/uglifyjs/blob/master/LICENSE)
+[View license](http://lisperator.net/uglifyjs)
 
 ## uglify-to-browserify
 #### Version
@@ -8033,7 +8033,7 @@ MIT
 #### License
 Not specified
 
-[View license](undefined/blob/master/LICENSE)
+[View license](undefined)
 
 ## underscore
 #### Version
@@ -8059,7 +8059,7 @@ MIT
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://epeli.github.com/underscore.string/)
 
 ## uniq
 #### Version
@@ -8087,7 +8087,7 @@ http://adamhalasz.com/
 #### License
 MIT
 
-[View license](undefined)
+[View license](http://github.com/adamhalasz/diet-uniqid/)
 
 ## uniqs
 #### Version
@@ -8101,7 +8101,7 @@ Felix Gnass
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/fgnass/uniqs)
 
 ## unpipe
 #### Version
@@ -8294,7 +8294,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/watchpack)
 
 ## webpack
 #### Version
@@ -8333,7 +8333,7 @@ Tobias Koppers @sokra
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/webpack/webpack-sources)
 
 ## whet.extend
 #### Version
@@ -8418,7 +8418,7 @@ http://substack.net
 #### License
 MIT/X11
 
-[View license](undefined)
+[View license](https://github.com/substack/node-wordwrap)
 
 ## wrap-ansi
 #### Version
@@ -8506,7 +8506,7 @@ http://mcc.id.au/xpathjs
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/yaronn/xpath.js)
 
 ## xtend
 #### Version
@@ -8520,7 +8520,7 @@ Raynos
 #### License
 MIT
 
-[View license](undefined)
+[View license](https://github.com/Raynos/xtend)
 
 ## xtraverse
 #### Version
@@ -8549,7 +8549,7 @@ Ben Coe
 #### License
 ISC
 
-[View license](undefined)
+[View license](https://github.com/bcoe/y18n)
 
 ## yallist
 #### Version
