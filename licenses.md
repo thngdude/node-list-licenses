@@ -1,12 +1,8 @@
 # Licenses
 
-| Module | License | View |
-
-
+| Module | License | View 
 | ---------------------------------- | --------------------------------- | --------------------------- |
-
 | Base64 | WTFPL | https://github.com/davidchambers/Base64.js/master/LICENSE |
-
 | abbrev | ISC | https://github.com/isaacs/abbrev-js#readme/master/LICENSE |
 
 | accepts | MIT | https://github.com/jshttp/accepts/master/LICENSE |
