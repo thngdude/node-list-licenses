@@ -225,7 +225,7 @@
 | [image-size](https://github.com/image-size/image-size) | MIT | https://github.com/image-size/image-size/blob/master/LICENSE |
 | [indent-string](https://github.com/sindresorhus/indent-string) | MIT | https://github.com/sindresorhus/indent-string/blob/master/license |
 | [indexes-of](https://github.com/dominictarr/indexes-of) | MIT | https://github.com/dominictarr/indexes-of/blob/master/LICENSE |
-| [indexof](undefined) | Not specified | undefined |
+| [indexof](https://www.npmjs.com/package/indexof) | Not specified | https://www.npmjs.com/package/indexof |
 | [inflight](https://github.com/isaacs/inflight) | ISC | https://github.com/isaacs/inflight/blob/master/LICENSE |
 | [inherits](https://github.com/isaacs/inherits) | ISC | https://github.com/isaacs/inherits/blob/master/LICENSE |
 | [ini](https://github.com/isaacs/ini) | ISC | https://github.com/isaacs/ini/blob/master/LICENSE |
@@ -3713,11 +3713,11 @@ MIT
 #### Author
 
 #### URL
-[undefined](undefined)
+[https://www.npmjs.com/package/indexof](https://www.npmjs.com/package/indexof)
 #### License
 Not specified
 
-[View license](undefined)
+[View license](https://www.npmjs.com/package/indexof)
 
 ## inflight
 #### Version
