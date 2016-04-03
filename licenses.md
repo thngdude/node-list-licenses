@@ -303,6 +303,7 @@
 | [lru-cache](https://github.com/isaacs/node-lru-cache) | ISC | https://github.com/isaacs/node-lru-cache/blob/master/LICENSE |
 | [lusca](https://github.com/krakenjs/lusca) | Apache 2.0 | http://www.apache.org/licenses/LICENSE-2.0.html |
 | [mailcomposer](https://github.com/andris9/mailcomposer) | MIT | https://github.com/andris9/mailcomposer/blob/master/LICENSE |
+| [mailgun](http://github.com/shz/node-mailgun) | Not specified | http://github.com/shz/node-mailgun |
 | [map-obj](https://github.com/sindresorhus/map-obj) | MIT | https://github.com/sindresorhus/map-obj/blob/master/license |
 | [media-typer](https://github.com/jshttp/media-typer) | MIT | https://github.com/jshttp/media-typer/blob/master/LICENSE |
 | [memory-fs](https://github.com/webpack/memory-fs) | MIT | https://github.com/webpack/memory-fs |
@@ -406,6 +407,7 @@
 | [pinkie](https://github.com/floatdrop/pinkie) | MIT | https://github.com/floatdrop/pinkie/blob/master/license |
 | [pinkie-promise](https://github.com/floatdrop/pinkie-promise) | MIT | https://github.com/floatdrop/pinkie-promise/blob/master/license |
 | [pkginfo](https://github.com/indexzero/node-pkginfo) | MIT | https://github.com/indexzero/node-pkginfo/blob/master/LICENSE |
+| [plivo](https://github.com/plivo/plivo-node) | MIT | https://github.com/plivo/plivo-node |
 | [postcss](http://postcss.org/) | MIT | http://postcss.org/ |
 | [postcss-calc](https://github.com/postcss/postcss-calc) | MIT | https://github.com/postcss/postcss-calc/blob/master/LICENSE |
 | [postcss-colormin](https://github.com/ben-eb/postcss-colormin) | MIT | https://github.com/ben-eb/postcss-colormin/blob/master/LICENSE-MIT |
